@@ -1,0 +1,23 @@
+div{
+background-color: lightpink;
+}
+.container{
+    height:50px;
+
+    display: flex;
+    flex-direction: row;
+
+    background-color:  white;
+
+    justify-content: space-between;
+
+    border-style:solid;
+    border-color:black;
+    border-width: 1px;
+
+    padding: 10px;
+    padding-left:0px;
+    padding-right:0px;
+    
+    align-items: center;
+}

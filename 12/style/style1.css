@@ -1,0 +1,12 @@
+.container{
+    display:flex;
+    flex-direction:row;
+}
+.box1{
+    background-color:lightblue;
+    widtH:200px;
+}
+.box2{
+    background-color:lightpink;
+    width: 75px;
+}

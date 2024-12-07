@@ -1,0 +1,42 @@
+.sidebar {
+    background-color: green;
+    color: white;
+    position: fixed;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    width: 200px;
+}
+.overlay {
+    font-family: arial, helvetica;
+    position:fixed;
+    background-color:rgba(0,0,0,0.5);
+    top:0;
+    bottom:0;
+    left:0;
+    right:0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.modal{
+    background-color:white;
+    display:flex;
+    flex-direction:column;
+
+    justify-content: center;
+    padding: 30px 150px 30px 15px;
+    border-radius:8px;
+}
+.modal-title {
+    font-weight: bold;
+    font-size: 24px;
+}
+.modal-content {
+    margin-top: 10px;
+}
+button{
+    width:50px;
+    height:20px;
+    margin-top: 10px;
+}

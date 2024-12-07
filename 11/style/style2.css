@@ -1,0 +1,10 @@
+.container{
+    display: grid;
+    grid-template-columns:50px auto 50px;
+}
+.col1,.col3{
+    background-color:lightblue;
+}
+.col2{
+    background-color:lightpink;
+}
