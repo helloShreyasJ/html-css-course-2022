@@ -1,0 +1,11 @@
+input{
+    font-family:arial;
+    font-size:14px;
+    
+    border-style:solid;
+    border-color:rgb(158 158 158);
+    border-width:1px;
+    border-radius:3px;
+
+    box-shadow: 0px 0px 2px rgb(158 158 158);
+}

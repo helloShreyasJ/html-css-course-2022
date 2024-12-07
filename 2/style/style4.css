@@ -1,0 +1,25 @@
+#button_getstarted{
+    background-color:rgb(121,82,179);
+    color:white;
+    font-weight:bold;
+    border-style:solid;
+    border-color:rgb(121,82,179);
+    border-radius:3px;
+    padding-left:15px;
+    padding-right:15px;
+    padding-top:8px;
+    padding-bottom:8px;
+}
+#button_download{
+    background-color:white;
+    color:rgb(108,117,125);
+    font-weight:bold;
+    border-style:solid;
+    border-color:rgb(108,117,125);
+    border-width:1px;
+    border-radius:3px;
+    padding-left:15px;
+    padding-right:15px;
+    padding-top:8px;
+    padding-bottom:8px;
+}

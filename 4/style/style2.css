@@ -1,0 +1,19 @@
+button{
+    background-color:rgb(0 128 1);
+    color:white;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:16px;
+    border-style:none;
+    padding-left:15px;
+    padding-right:15px;
+    padding-top:5px;
+    padding-bottom:5px;
+    transition:padding 1s;
+}
+button:hover{
+    cursor:pointer;
+    padding-top:18px;
+    padding-bottom:18px;
+    padding-right:36px;
+    padding-left:36px;
+}

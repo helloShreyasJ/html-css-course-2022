@@ -1,0 +1,15 @@
+button{
+    background-color:rgb(255, 216, 20);
+    color:rgb(0,0,0);
+    border-style:none;
+    border-radius:25px;
+    padding-top:7px;
+    padding-bottom:7px;
+    padding-left:38px;
+    padding-right:38px;
+    transition:0.3s;
+}
+button:hover{
+    background-color: rgb(228, 191, 5);
+    cursor:pointer;
+}

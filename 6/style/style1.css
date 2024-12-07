@@ -1,0 +1,14 @@
+p{
+    font-family:Montserrat,arial;
+    text-align:center;
+    margin-top:0;
+    margin-bottom:0;
+}
+.title{
+    font-size:43px;
+    font-weight:600;
+    margin-bottom:10px;
+}
+span{
+    text-decoration:underline;
+}

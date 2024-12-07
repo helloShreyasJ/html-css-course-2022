@@ -1,0 +1,43 @@
+body{
+    font-family:arial,sans-serif;
+}
+span{
+    font-size:32px;
+}
+.header{
+    margin-bottom:8px;
+}
+input{
+    background-color:rgb(240 240 240);
+    border-style:none;
+    padding-right: 172px;
+    padding-left: 8px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+
+    margin-bottom: 8px;
+}
+.enter-details{
+    margin-bottom: 16px;;
+}
+button{
+    border-style:none;
+    font-size:12px;
+}
+.request{
+    background-color:black;
+    color:white;
+    padding-left:12px;
+    padding-right:12px;
+    padding-top:12px;
+    padding-bottom:12px;
+    margin-right:8px;
+}
+.schedule{
+    background-color:rgb(240,240,240);
+    color:black;
+    padding-left:12px;
+    padding-right:12px;
+    padding-top:12px;
+    padding-bottom:12px;
+}

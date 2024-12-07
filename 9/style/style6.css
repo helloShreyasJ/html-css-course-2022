@@ -1,0 +1,38 @@
+.profile{
+    width: 150px;
+    height: 240px;
+    box-shadow: 0px 0px 4px rgb(68, 68, 68);
+    margin-left:12px;
+    margin-top:20px;
+    border-radius:4px;
+    display:inline-block;
+}
+
+.profile-picture{
+    width: 100%;
+    height: 60%;
+    object-fit: cover;
+}
+.name,.mutuals,.friend-req{
+    font-family:arial,sans-serif;
+    margin-left:7px;
+}
+.name{
+    color:rgb(0 0 0);
+    font-weight:1000;
+}
+.mutuals{
+    color:rgb(127 127 127);
+}
+.friend-req{
+    background-color:rgb(57 116 234);
+    color:rgb(246 248 253);
+    font-size:14px;
+    border-style:none;
+    border-radius:3px;
+    padding-left:10px;
+    padding-right:10px;
+    padding-top:7px;
+    padding-bottom:7px;
+    margin-top:10px;
+}

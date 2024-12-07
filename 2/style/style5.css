@@ -1,0 +1,28 @@
+#button-apply{
+    background-color:rgb(10,102,194);
+    color:white;
+    font-weight:bold;
+    font-size:13px;
+    border-style:solid;
+    border-color:rgb(10,102,194);
+    border-radius:25px;
+    padding-left:18px;
+    padding-right:18px;
+    padding-top:7px;
+    padding-bottom:7px;
+
+}
+#button-save{
+    background-color:white;
+    color:rgb(10,102,194);
+    font-weight:bold;
+    font-size:13px;
+    border-style:solid;
+    border-color:rgb(10,102,194);
+    border-width:1px;
+    border-radius:25px;
+    padding-left:18px;
+    padding-right:18px;
+    padding-top:7px;
+    padding-bottom:7px;
+}

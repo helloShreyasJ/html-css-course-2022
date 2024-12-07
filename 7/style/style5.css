@@ -1,0 +1,24 @@
+.search-google{
+    padding-left:18px;
+    padding-right:140px;
+    padding-top:10px;
+    padding-bottom:10px;
+
+    font-family: Roboto;
+    font-size:16px;
+
+    border-style:none;
+    border-radius:25px;
+
+    box-shadow: 0px 0px 4px rgb(145, 145, 145);;
+
+    color:rgb(98, 98, 98);
+    transition: 1s;
+}
+
+.search-google:focus{
+    padding-left: 36px;
+    padding-right:240px;
+    padding-top:15px;
+    padding-bottom:15px;
+}

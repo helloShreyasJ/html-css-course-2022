@@ -1,0 +1,35 @@
+#button-get-started{
+    background-color:rgb(121,82,179);
+    color:white;
+    font-weight:bold;
+    border-style:none;
+    border-radius:3px;
+    padding-left:15px;
+    padding-right:15px;
+    padding-top:10px;
+    padding-bottom:10px;
+    transition:0.3s;
+}
+#button-download{
+    background-color:white;
+    color:rgb(108,117,125);
+    font-weight:bold;
+    border-style:solid;
+    border-color:rgb(160, 160, 160);
+    border-width:0.9px;
+    border-radius:3px;
+    padding-left:15px;
+    padding-right:15px;
+    padding-top:10px;
+    padding-bottom:10px;
+    transition:0.3s;
+}
+#button-get-started:hover{
+    cursor:pointer;
+    background-color:rgb(99, 67, 147);
+}
+#button-download:hover{
+    cursor:pointer;
+    background-color:rgb(160, 160, 160);
+    color:white;
+}

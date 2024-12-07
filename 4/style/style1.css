@@ -1,0 +1,17 @@
+button{
+    background-color:rgb(240, 240, 240);
+    border-style:solid;
+    border-color:#8f8f8f;
+    border-width:1.35px;
+    border-radius:3px;
+    padding-left:7px;
+    padding-right:7px;
+    padding-top:10px;
+    padding-bottom:10px;
+    margin-left:3px;
+    margin-right:3px;
+}
+.pages{
+    margin-left:3px;
+    margin-right:3px;
+}

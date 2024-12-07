@@ -1,0 +1,50 @@
+a:visited{
+    color:rgb(0,113,133);
+}
+#price{
+    color:green;
+    font-weight:bold;
+}
+#button-add-to-cart{
+    background-color:rgb(255,216,20);
+    color:black;
+    padding-left:18px;
+    padding-right:18px;
+    padding-top:7px;
+    padding-bottom:7px;
+    border-style:none;
+    border-radius:25px;
+    font-weight:450;
+    transition:0.3s;
+    font-family:Arial, Helvetica, sans-serif;
+}
+#button-buy-now{
+    background-color:rgb(255,164,28);
+    color:black;
+    padding-left:18px;
+    padding-right:18px;
+    padding-top:7px;
+    padding-bottom:7px;
+    border-style:none;
+    border-color:rgb(255,164,28);
+    border-radius:25px;
+    font-weight:450;
+    transition:0.3s;
+    font-family:Arial, Helvetica, sans-serif;
+}
+#button-add-to-cart:hover{
+    cursor:pointer;
+    background-color:rgb(229, 194, 20);
+    transition:0s;
+}
+#button-add-to-cart:active{
+    background-color:rgb(255, 229, 102);
+}
+#button-buy-now:hover{
+    cursor:pointer;
+    background-color:rgb(231, 149, 26);
+    transition:0s
+}
+#button-buy-now:active{
+    background-color:rgb(255, 201, 120);
+}

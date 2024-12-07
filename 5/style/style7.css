@@ -1,0 +1,33 @@
+p{
+    font-family:arial;
+}
+.display-name{
+    font-weight:1000;
+}
+.username{
+    color:rgb(101 101 101);
+}
+.time-posted-ago{
+    color:rgb(101 101 101);
+}
+.paragraph{
+    font-size:18px;
+}
+.mention{
+    color:rgb(74 152 233);
+}
+.pfp-container{
+    vertical-align: top;
+    display:inline-block;
+    width:47px;
+    margin-top:4px;
+    margin-right:7px;
+}
+.pfp{
+    width:100%;
+    border-radius:50px;
+}
+.post{
+    display:inline-block;
+    width:525px;
+}

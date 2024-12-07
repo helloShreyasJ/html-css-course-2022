@@ -1,0 +1,43 @@
+div{
+    width:400px;
+}
+body{
+    font-family:Roboto;
+}
+
+.word-email{
+    color:rgb(107 106 106);
+    font-size:14px;
+    margin-bottom:20px;
+}
+.input-email{
+    padding-right:200px;
+    padding-top:10px;
+    padding-bottom:5px;
+
+    border-style:solid;
+    border-radius:4px;
+    border-color:rgb(77 78 77);
+    margin-top:5px;
+    margin-bottom:10px;
+
+}
+.agree-statement{
+    font-size:14px;
+    color:rgb(99 99 99);
+}
+button{
+    background-color:rgb(10,102,194);
+    color:white;
+    font-size:19px;
+    font-weight:400;
+    border-style:solid;
+    border-color:rgb(10,102,194);
+    border-radius:25px;
+    padding-left:110px;
+    padding-right:110px;
+    padding-top:8px;
+    padding-bottom:8px;
+    margin-top:10px;
+    text-align: center;;
+}

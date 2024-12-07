@@ -1,0 +1,21 @@
+p{
+    font-family:arial;
+    margin-bottom:4px;
+    margin-top:0;
+}
+.price-current{
+    font-size:24px;
+}
+.currency{
+    color:rgb(99 98 99);
+    font-size:12px;
+}
+.increment-rate{
+    color:rgb(60 126 64);
+}
+.after-hours{
+    color:rgb(99 98 99);
+}
+.after-hours-percentage{
+    color:rgb(216 61 52);
+}
